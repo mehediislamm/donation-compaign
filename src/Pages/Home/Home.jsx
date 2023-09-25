@@ -4,8 +4,8 @@ import Banner from "../../Component/Navbar/Banner/Banner";
 
 
 const Home = () => {
-    const donations = useLoaderData()
-    // console.log(donations);
+    const donations = useLoaderData();
+    console.log(donations);
     return (
         <div>
             <Banner></Banner>

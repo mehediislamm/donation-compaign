@@ -6,9 +6,9 @@
       "category": "Health",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "price": 49.99,
-      "Card-bg-color": "#0052FF26",
-      "category-bg-color": "#0052FF33",
-      "title-color": "#0052FF"
+      "Card_bg_color": "#0052FF26",
+      "category_bg_color": "#0052FF33",
+      "title_color": "#0052FF"
     },
     {
         "id":2,
@@ -17,9 +17,9 @@
       "category": "Education",
       "description": "Suspendisse potenti. Fusce eget ex nec urna ullamcorper ultricies.",
       "price": 29.99,
-      "Card-bg-color": "#FF444A26",
-      "category-bg-color": "#FF444A33",
-      "title-color": "#FF444A"
+      "Card_bg_color": "#FF444A26",
+      "category_bg_color": "#FF444A33",
+      "title_color": "#FF444A"
     },
     {
         "id":3,
@@ -28,9 +28,9 @@
       "category": "Clothing",
       "description": "Vivamus fringilla justo eu suscipit. Nulla facilisi.",
       "price": 39.99,
-      "Card-bg-color": "#79C23F26",
-      "category-bg-color": "#79C23F33",
-      "title-color": "#79C23F"
+      "Card_bg_color": "#79C23F26",
+      "category_bg_color": "#79C23F33",
+      "title_color": "#79C23F"
     },
     {
         "id":4,
@@ -39,9 +39,9 @@
       "category": "Food",
       "description": "Donec eget tortor ullamcorper, bibendum turpis sit amet, consectetur nulla.",
       "price": 19.99,
-      "Card-bg-color": "#F8714726",
-      "category-bg-color": "#F8714733",
-      "title-color": "#F87147"
+      "Card_bg_color": "#F8714726",
+      "category_bg_color": "#F8714733",
+      "title_color": "#F87147"
     },
     {
         "id":5,
@@ -50,9 +50,9 @@
       "category": "Food",
       "description": "Quisque ut odio vel mauris ultrices fringilla.",
       "price": 24.99,
-      "Card-bg-color": "#F8714726",
-      "category-bg-color": "#F8714733",
-      "title-color": "#F87147"
+      "Card_bg_color": "#F8714726",
+      "category_bg_color": "#F8714733",
+      "title_color": "#F87147"
     },
     {
         "id":6,
@@ -61,9 +61,9 @@
       "category": "Clothing",
       "description": "Integer euismod, quam a pellentesque lacinia, metus nisl sollicitudin dolor.",
       "price": 59.99,
-      "Card-bg-color": "#79C23F26",
-      "category-bg-color": "#79C23F33",
-      "title-color": "#79C23F"
+      "Card_bg_color": "#79C23F26",
+      "category_bg_color": "#79C23F33",
+      "title_color": "#79C23F"
     },
     {
         "id":7,
@@ -72,9 +72,9 @@
       "category": "Education",
       "description": "Nunc vel nisi ac nunc bibendum auctor a id odio.",
       "price": 34.99,
-      "Card-bg-color": "#FF444A26",
-      "category-bg-color": "#FF444A33",
-      "title-color": "#FF444A"
+      "Card_bg_color": "#FF444A26",
+      "category_bg_color": "#FF444A33",
+      "title_color": "#FF444A"
     },
     {
         "id":8,
@@ -83,9 +83,9 @@
       "category": "Health",
       "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
       "price": 44.99,
-      "Card-bg-color": "#0052FF26",
-      "category-bg-color": "#0052FF33",
-      "title-color": "#0052FF"
+      "Card_bg_color": "#0052FF26",
+      "category_bg_color": "#0052FF33",
+      "title_color": "#0052FF"
     },
     {
         "id":9,
@@ -94,9 +94,9 @@
       "category": "Health",
       "description": "Mauris ut orci eu libero tincidunt finibus sit amet eu odio.",
       "price": 22.99,
-      "Card-bg-color": "#0052FF26",
-      "category-bg-color": "#0052FF33",
-      "title-color": "#0052FF"
+      "Card_bg_color": "#0052FF26",
+      "category_bg_color": "#0052FF33",
+      "title_color": "#0052FF"
     },
     {
         "id":10,
@@ -105,9 +105,9 @@
       "category": "Education",
       "description": "Fusce nec ex ut arcu volutpat viverra vel eu nulla.",
       "price": 27.99,
-      "Card-bg-color": "#FF444A26",
-      "category-bg-color": "#FF444A33",
-      "title-color": "#FF444A"
+      "Card_bg_color": "#FF444A26",
+      "category_bg_color": "#FF444A33",
+      "title_color": "#FF444A"
     },
     {
         "id":11,
@@ -116,9 +116,9 @@
       "category": "Clothing",
       "description": "Vestibulum vel ligula efficitur, efficitur justo vel, fringilla nunc.",
       "price": 69.99,
-      "Card-bg-color": "#79C23F26",
-      "category-bg-color": "#79C23F33",
-      "title-color": "#79C23F"
+      "Card_bg_color": "#79C23F26",
+      "category_bg_color": "#79C23F33",
+      "title_color": "#79C23F"
     },
     {
         "id":12,
@@ -127,9 +127,9 @@
       "category": "Food",
       "description": "Sed auctor lectus eu orci varius, eu dignissim lorem vehicula.",
       "price": 31.99,
-      "Card-bg-color": "#F8714726",
-      "category-bg-color": "#F8714733",
-      "title-color": "#F87147"
+      "Card_bg_color": "#F8714726",
+      "category_bg_color": "#F8714733",
+      "title_color": "#F87147"
     }
   ]
   

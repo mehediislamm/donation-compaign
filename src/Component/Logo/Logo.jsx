@@ -3,7 +3,7 @@
 const Logo = () => {
     return (
         <div>
-            DONATION
+           <img className="h-10" src="../Logo.png" alt="" />
         </div>
     );
 };
