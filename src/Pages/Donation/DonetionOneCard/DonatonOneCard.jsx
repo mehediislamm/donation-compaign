@@ -36,24 +36,26 @@ const DonatonOneCard = ({ donation }) => {
 
     return (
         <div>
-            <div className="relative w-8/12 h-[64vh]  flex flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
-                <div className="  relative  z-10 m-0 overflow-hidden rounded-none bg-transparent bg-clip-border text-gray-700 shadow-none">
-                    <img className=" w-screen"
+            <div className="relative  h-[72vh]  w-[72vh] flex flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
+                <div className=" relative    m-0 overflow-hidden rounded-none bg-transparent bg-clip-border text-gray-700 shadow-none">
+                    <img className="   w-full "
                         src={img}
                         alt="ui/ux review check"
                     />
-                    <div className="bg-[#0B0B0B80]  absolute inset-4 md:mt-72  lg:mt-96">
-                        <div className="pt-5">
-                            < button   style={{
-                        backgroundColor: `${title_color}`
-                        
-                    }}
- onClick={handleAddToDonate}
-                                className="btn   ">Donate ${price}</button>
-                        </div>
+                 
+                    
+             
+               <div className="   absolute bottom-0 left-0 ml-2 mb-5">
+                    
+                    < button   style={{
+                         backgroundColor: `${title_color}`
+                         
+                     }}
+                         onClick={handleAddToDonate}
+                                 className="btn">Donate ${price}</button>
                     </div>
-                </div>
-                <div className="p-6">
+               </div>
+               <div className="p-6">
                     <h4 className="block font-sans text-2xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
                         {title}
                     </h4>
@@ -61,9 +63,12 @@ const DonatonOneCard = ({ donation }) => {
                         {description}
                     </p>
                 </div>
+                 
+                </div>
+              
 
             </div>
-        </div>
+       
     );
 };
 
