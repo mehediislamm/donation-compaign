@@ -44,8 +44,12 @@ const DonatonOneCard = ({ donation }) => {
                     />
                     <div className="bg-[#0B0B0B80]  absolute inset-4 md:mt-72  lg:mt-96">
                         <div className="pt-5">
-                            < button onClick={handleAddToDonate}
-                                className="btn bg-[#FF444A]  ">Donate ${price}</button>
+                            < button   style={{
+                        backgroundColor: `${title_color}`
+                        
+                    }}
+ onClick={handleAddToDonate}
+                                className="btn   ">Donate ${price}</button>
                         </div>
                     </div>
                 </div>
