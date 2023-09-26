@@ -6,7 +6,7 @@ const Banner = () => {
         <div >
 
 <div className="card bg-base-100 shadow-xl image-full">
-  <figure><img src="/public/Banner.jpg" alt="banner" /></figure>
+  <figure><img src="/public/Banner.jpg" alt="bannerr" /></figure>
   <div className="card-body">
   <div className="pt-24" >
                 <h1 className="text-center text-3xl font-bold ">I Grow By Helping People In Need</h1>
